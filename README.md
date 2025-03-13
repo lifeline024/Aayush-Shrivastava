@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ5Y2F5dG5yY2Z2eWZ6eGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Hello, I'm Aayush! 
+  This is Aayushya! 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ5Y2F5dG5yY2Z2eWZ6eGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dGZ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
@@ -15,12 +15,9 @@
 Hey there! I'm **Aayush**, a passionate developer with a love for building intuitive and user-friendly applications. I thrive on solving problems and creating solutions that make a difference. Here's a quick glimpse into my world:
 
 - 🚀 **Currently Building**: [HealthHub](#) – A health management app revolutionizing how people track their health.
-- 🌱 **Learning**: Advanced React, Kotlin, and Power BI.
-- 💼 **Internship**: Frontend Developer at **CodeAlpha**.
+- 🌱 **Learning**: Advanced React, Kotlin, and Power BI..
 - 🎓 **Certifications**: HTML, CSS, and Data Structures in C.
 - 🛍️ **Exploring**: E-commerce development (Inspired by Flipkart & Amazon).
-- 🔒 **Dream Project**: Building an end-to-end encrypted chat app.
-
 ---
 
 ## 🛠️ **Tech Stack**
@@ -60,16 +57,16 @@ Hey there! I'm **Aayush**, a passionate developer with a love for building intui
 ## 🌐 **Let's Connect!**
 
 <p align="center">
-  <a href="https://linkedin.com/in/aayush" target="_blank">
+  <a href="https://www.linkedin.com/in/lifeline024/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/aayush" target="_blank">
+  <a href="https://github.com/lifeline024/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://my-portfolio024.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:aayush@example.com" target="_blank">
+  <a href="mailto:rajaayush931@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
